@@ -151,6 +151,7 @@ It achieved the highest silhouette score and balanced cluster separation.
 #### 1️⃣ Clone the Repository
 
 git clone <your-repo-link>
+
 cd ClusteringProject
 
 #### 2️⃣ Install Dependencies
