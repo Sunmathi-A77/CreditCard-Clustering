@@ -150,7 +150,7 @@ It achieved the highest silhouette score and balanced cluster separation.
 
 #### 1️⃣ Clone the Repository
 
-git clone <your-repo-link>
+git clone https://github.com/yourusername/ClusteringProject.git
 
 cd ClusteringProject
 
